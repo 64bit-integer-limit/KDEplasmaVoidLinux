@@ -15,4 +15,6 @@ A personal semi-automatic bash script to install KDE plasma on void linux
     * sddm
     * dbus
 
+* removes
+    * conflicting wpa_supplicant service
 after that, it reboots your computer
