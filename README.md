@@ -7,6 +7,7 @@ A personal semi-automatic bash script to install KDE plasma on void linux
     * kde-baseapps
     * sddm
     * xorg
+    * pulseaudio
     * NetworkManager
 
 * does some service things for
