@@ -1,5 +1,9 @@
 `git clone https://github.com/64bit-integer-limit/KDEplasmaVoidLinux.git`
 
+`cd KDEplasmaVoidLinux`
+
+`./installplasma.sh`
+
 A personal semi-automatic bash script to install KDE plasma on void linux
 
 * installs
