@@ -2,7 +2,13 @@
 
 `cd KDEplasmaVoidLinux`
 
-`./installplasma.sh`
+`chmod +x ./install-plasma.sh`
+
+`chmod +x ./setup-pipewire.sh`
+
+`./install-plasma.sh`
+
+`./setup-pipewire.sh`
 
 A personal semi-automatic bash script to install KDE plasma on void linux
 
